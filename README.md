@@ -1,6 +1,6 @@
 ## Hi I'm Dara
 
-**Front-end developer** with hand-on experience developing and maintaining responsive web application, also a proactive person always looking for any opportunity to learn new technology.
+**Full stack developer** with hands-on experience in developing and maintaining responsive web applications, along with a growing foundation in backend development. A proactive learner who is eager to explore and adopt new technologies.
 
 <!--
 **chessman-coder/chessman-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
