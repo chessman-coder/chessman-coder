@@ -25,7 +25,3 @@ Here are some ideas to get you started:
 **Backend Tech**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chessman-coder&show_icons=true&hide_title=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chessman-coder&layout=compact)
